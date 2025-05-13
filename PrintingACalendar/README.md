@@ -1,0 +1,1 @@
+compile: gnatmake -Wall cal.adb

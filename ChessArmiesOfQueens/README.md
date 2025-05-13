@@ -1,0 +1,1 @@
+compile: gnatmake -Wall -gnatW8 queenarmies.adb
